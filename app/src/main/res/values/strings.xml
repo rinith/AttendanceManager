@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AttendanceManager</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Create_New_TimeTable">Create New Time Table</string>
+    <string name="Import_From_Storage">Import From Storage</string>
+</resources>
